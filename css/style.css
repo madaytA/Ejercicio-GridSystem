@@ -9,6 +9,7 @@
 	font-size: 15px;
 	margin-left: 25px;
 	color: #fff;
+	font-weight: bold;
 }
 .menu ul{
 	margin-top: 50px;
@@ -42,6 +43,8 @@
 	display: inline-block;
 	margin-right: 24px;
 	text-align: center;
+	color: #0000FF;
+	font-family: Arial;
 	/*width: 125px*/
 }
 
@@ -65,6 +68,34 @@
 	text-align: left;
 	padding-bottom: 8px;
 	margin-top: 5px;
-
 }
+.piepagina{
+	background-color: #000;
+	text-align: center;
+	color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 50px;
+	font-family: Arial;
+}
+.piepagina p{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.piepagina li{
+	list-style-type: none;
+	display: inline;
+	margin-right: 20px;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+.piepagina .copyright{
+	color: #BDBDBD;
+	font-family: Verdana;
+	font-size: 12px;
+	/*padding-bottom: 50px;*/
+}
+
 /* Inserta tu codigo aqui */
